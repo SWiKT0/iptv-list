@@ -1,49 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, CBC Sofra
-https://flu.systemnet.tv/CBCSofra/index.m3u8
+#EXTINF:-1, Al Jazeera Arabic (الجزيرة)
+https://akamaized.net
 
-#EXTINF:-1, Local Channel 1
-http://45.92.69.131:8001/play/a023
+#EXTINF:-1, TRT Arabic (تي آر تي العربية)
+https://daastream.com
 
-#EXTINF:-1, MBC 1
-https://shahid.net
+#EXTINF:-1, BBC Arabic (بي بي سي العربية)
+https://doubleclick.net
 
-#EXTINF:-1, MBC 2
-https://shahid.net
+#EXTINF:-1, France 24 Arabic (فرانس 24)
+https://france24.com
 
-#EXTINF:-1, MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1, DW Arabic (دي دبليو الألمانية)
+https://akamaized.net
 
-#EXTINF:-1, MBC 4
-https://shahid.net
+#EXTINF:-1, Sky News Arabia (سكاي نيوز)
+https://akamaized.net
 
-#EXTINF:-1, MBC 5
-https://shahid.net
-
-#EXTINF:-1, MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-
-#EXTINF:-1, MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a/9c9d/ef2a64a54a64d5c456/b3462a/index.m3u8
-
-#EXTINF:-1, MBC Drama
-https://shahid.net
-
-#EXTINF:-1, MBC FM Riyadh
-https://shahid.net
-
-#EXTINF:-1, MBC Max
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a/cda864c249a88c38e66a2e653/index.m3u8
-
-#EXTINF:-1, MBC Plus Drama
-https://shahid.net
-
-#EXTINF:-1, Samira TV
-https://hta.dz
-
-#EXTINF:-1, SpaceToon
-https://shahid.net
-
-#EXTINF:-1, SpaceToon Live
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1, SpaceToon Live (سبيستون)
+https://spacetoon.com
